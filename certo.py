@@ -1,2 +1,2 @@
-print('gittt')
+print('gitçalktt')
 print
